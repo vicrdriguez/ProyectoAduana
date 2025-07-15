@@ -1,17 +1,15 @@
 # Prototipo de Sistema para Gestión de Trámites Aduaneros
 
-Este proyecto es un prototipo de software orientado a mejorar la "gestión de trámites aduaneros" en puntos de control de entrada y salida del país. 
-El objetivo es modelar y diseñar un sistema que facilite la interacción entre distintos actores clave como "pasajeros", "funcionarios del SAG", "PDI", 
-"aduana" y **administradores del sistema**.
+Este proyecto es un prototipo de software orientado a mejorar la **gestión de trámites aduaneros** en puntos de control de entrada y salida del país. El objetivo es modelar y diseñar un sistema que facilite la interacción entre distintos actores clave como **pasajeros**, **funcionarios del SAG**, **PDI**, **aduana** y **administradores del sistema**.
 
-## Estado del proyecto
+## 🚧 Estado del proyecto
 
-**En desarrollo - Fase de prototipo**  
+🔧 **En desarrollo - Fase de prototipo**  
 Actualmente se encuentra en fase de diseño e ideación, utilizando herramientas visuales y colaborativas para definir la estructura del sistema.
 
 ---
 
-# Funcionalidades contempladas
+## 🧩 Funcionalidades contempladas
 
 - Registro de documentación de ingreso o salida del país.
 - Aprobación o rechazo de trámites aduaneros.
@@ -21,7 +19,7 @@ Actualmente se encuentra en fase de diseño e ideación, utilizando herramientas
 
 ---
 
-## 🛠 Herramientas utilizadas
+## 🛠️ Herramientas utilizadas
 
 | Herramienta | Uso |
 |------------|------|
@@ -33,4 +31,5 @@ Actualmente se encuentra en fase de diseño e ideación, utilizando herramientas
 ---
 
 ## 📁 Estructura del proyecto
+
 
