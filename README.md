@@ -29,3 +29,12 @@ Actualmente se encuentra en fase de diseño e ideación, utilizando herramientas
 | PowerPoint | Exposición del proyecto |
 
 ---
+## 👥 Equipo de trabajo
+
+- **Catalina Castillo**
+- **Steven Larraguibel**
+- **Kevin Fuenzalida**
+- **Vicente Rodriguez**
+
+---
+
